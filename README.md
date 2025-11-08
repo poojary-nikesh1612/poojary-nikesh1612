@@ -3,7 +3,7 @@
   <h3>3rd Year Computer Science Student | Aspiring Software Engineer</h3>
   <p>Passionate about building scalable full-stack applications and solving real-world problems through code.</p>
   
-  <img src="https://komarev.com/ghpvc/?username=Nikesh-Poojary&style=for-the-badge&color=00D9FF&labelColor=1c1917" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=poojary-nikesh1612&style=for-the-badge&color=00D9FF&labelColor=1c1917" alt="Profile Views">
 </div>
 
 ---
@@ -52,14 +52,14 @@ I am a dedicated Computer Science undergraduate with a strong foundation in soft
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikesh-Poojary&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=poojary-nikesh1612&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
   
   <br>
   
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nikesh-Poojary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=poojary-nikesh1612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
         <img src="https://streak-stats.demolab.com?user=Nikesh-Poojary&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
