@@ -62,7 +62,7 @@ I am a dedicated Computer Science undergraduate with a strong foundation in soft
         <img src="https://github-readme-stats.vercel.app/api?username=poojary-nikesh1612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=Nikesh-Poojary&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=poojary-nikesh1612&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
