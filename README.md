@@ -2,9 +2,9 @@
 
 # Nikesh
 
-### Computer Science Student • Backend Developer • AI Application Developer
+### Computer Science Student • Aspiring AI & Backend Developer
 
-Building scalable backend systems and AI-powered web applications.
+Building practical backend systems, multi-agent RAG workflows, and modern web applications.
 
 <br>
 
@@ -22,9 +22,9 @@ Building scalable backend systems and AI-powered web applications.
 
 ## 👋 About Me
 
-I'm a Computer Science student passionate about backend engineering and intelligent software systems.
+I am a Computer Science student focused on software engineering, backend architecture, and AI-driven applications.
 
-I enjoy designing scalable applications, building secure APIs, working with databases, and developing AI-powered products that solve practical problems. My focus is on writing clean, maintainable code while continuously learning modern backend architectures and software engineering practices.
+I have hands-on experience building multi-agent workflows and RAG pipelines using **Python**, **FastAPI**, **LangGraph**, and **LangChain**, along with PostgreSQL and vector stores like Pinecone. I enjoy working on structured problems, writing maintainable code, and learning how to design reliable systems from experienced teams.
 
 ---
 
@@ -34,40 +34,53 @@ I enjoy designing scalable applications, building secure APIs, working with data
 <tr>
 <td valign="top" width="50%">
 
-### Languages
+### AI & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,ts,js" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Workflows-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-2A4D69?style=for-the-badge"/>
 </p>
 
-### Backend
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,mongodb" />
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 </p>
 
 </td>
 
 <td valign="top" width="50%">
 
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white"/>
 </p>
 
 </td>
