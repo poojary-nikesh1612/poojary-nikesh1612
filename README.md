@@ -89,6 +89,28 @@ I have hands-on experience building multi-agent workflows and RAG pipelines usin
 
 ---
 
+## 🚀 Featured Projects
+
+### [Livia-AI](https://github.com/poojary-nikesh1612/Livia-AI.git)
+**Voice-first Multi-Modal Rice Crop Diagnostic System**
+* Built an agricultural advisory application using **LangGraph**, **RAG**, and **FastAPI** to diagnose rice crop diseases in real time.
+* Implemented a Human-in-the-Loop (HITL) workflow with a **PostgreSQL** checkpointer for multi-turn clarifications and state management.
+* Integrated multi-lingual speech-to-text (**Sarvam AI**) and audio response pipelines (**Edge-TTS**) for Kannada and English.
+* Added localized, climate-aware pesticide recommendations using **Google Gemini** and the OpenWeatherMap API.
+
+### [ChatBook](https://github.com/poojary-nikesh1612/chatbook.git)
+**AI-Powered Document Workspace with RAG**
+* Developed a workspace application for document indexing, semantic search, and contextual Q&A using Retrieval-Augmented Generation.
+* Built the backend with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**, implementing Google OAuth, workspace isolation, and automated guest data cleanup.
+* Designed retrieval pipelines using **Pinecone** and LLM endpoints for contextual query rewriting and conversation summarization.
+
+### [Acadigo](https://github.com/poojary-nikesh1612/acadigo.git)
+**State Exam Resource Platform**
+* Developed a full-stack educational portal serving Karnataka students with previous year question papers for PUC, SSLC, KCET, NEET, and COMEDK.
+* Built with **Next.js**, **Tailwind CSS**, and **MongoDB** for fast indexing, search, and responsive document downloads.
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
